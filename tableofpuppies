@@ -1,0 +1,14 @@
+<!doctype html> <html lang="en">   
+  <head>    
+  <meta charset="utf-8">  
+  <title>Cmpt 104</title>   
+  </head>   
+  <body>
+    <ol>
+    <li>Brown</li>
+    <li>Black</li>
+    <li>white</li>
+    <li>Grey</li>
+    <ol>
+  </body>
+  </html>
