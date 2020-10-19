@@ -19,7 +19,6 @@ ul.Fonts {
   font-family: "Lucida Console", Courier, monospace;
   font-size: 22px;
 }
-body.puppy
-  {
-    background-color: #FF8C00; color: white;
+table.unfancy{  
+  border: 20px solid #FF8C00;
 }
