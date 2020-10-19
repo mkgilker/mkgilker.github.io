@@ -13,7 +13,7 @@ table.fancy{
 td.fancy{  
   padding: 15px;
   text-align: left;
-  border: 1px solid black;
+  border: 1px solid #FF8C00;
   }
 ul.Fonts {
   font-family: "Lucida Console", Courier, monospace;
