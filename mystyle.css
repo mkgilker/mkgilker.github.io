@@ -15,3 +15,7 @@ td.fancy{
   text-align: left;
   border: 1px solid black;
   }
+ul.Fonts {
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 22px;
+}
